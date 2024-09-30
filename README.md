@@ -1,4 +1,6 @@
  # Hi, I'm Xavier! 
+  Aspiring Software QA Engineer <br/>
+  Computer Science graduate from FEU Institute of Technology, Philippines<br/>
  ### Languages and Tools 
 [![Languages and Tools](https://skillicons.dev/icons?i=html,css,js,py,pycharm,vscode)](https://skillicons.dev)
 
