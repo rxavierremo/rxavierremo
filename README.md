@@ -1,7 +1,7 @@
  # 👋 Hi, I'm Xavier! 
   I am a Computer Science graduate from FEU Instute of Technology in the Philippines and I aspire to become a Software QA Engineer. During my internship, I had the opportunity to become a tester for the web applications that our company was developing. During this time, I was able to gain skills such as Test Case creation and execution,  functional testing, bug reports creation and presentation, as well as the use of Jira for test management.<br/>
 
- ## [Test](https://www.google.com)
+ ## [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rxavierremo/)
  ### Languages and Tools 
 [![Languages and Tools](https://skillicons.dev/icons?i=html,css,js,py,pycharm,vscode,selenium,jenkins)](https://skillicons.dev)
 
