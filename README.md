@@ -1,5 +1,4 @@
  # 👋 Hi, I'm Xavier! 
-  I am a Computer Science graduate from FEU Instute of Technology in the Philippines and I aspire to become a Data Professional.<br/>
 
  ### Connect with me! [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rxavierremo/)
  ### Languages and Tools 
